@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flight Data ETL Pipeline
 
 A beginner-friendly ETL pipeline built with Python and OOP.
@@ -18,3 +19,7 @@ FlightTransformer
 Clean Pandas DataFrame
      ↓
 Database Loader
+=======
+# Flight_navigation_version1.1
+Productive code ETL using Python OOP
+>>>>>>> c6e9d209667fdb12783ca917cb58c16eabf74abc
